@@ -40,7 +40,7 @@ public class Main {
         if (indexStr2 != -1) {
             System.out.println(str2 + " is found in " + str1 + " at index " + indexStr2);
         } else {
-            System.out.println(str2 + " is not found in " + str1);
+            System.out.println(str2 + " is not found in " + str1); //wd
         }
     }
 }
